@@ -1,6 +1,6 @@
 # ql-serial
 Serial port access from QML.
-
+Donate: Paypal edartuz@gmail.com
 
 
 Registration:
